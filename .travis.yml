@@ -18,7 +18,7 @@ addons:
     project:
       name: "abbat/ekstertera"
       description: "Build submitted via Travis CI"
-    notification_email: antonbatenev@yandex.ru
+    notification_email: madjahed24@gmail.com
     build_command_prepend: true
     build_command: ./build.linux.sh
     branch_pattern: master
